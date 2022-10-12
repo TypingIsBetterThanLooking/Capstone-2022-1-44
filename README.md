@@ -75,7 +75,7 @@ git clone https://github.com/TypingIsBetterThanLooking/TBTL-Server.git
 ```
   
   
-### 2. Install the required libraries before installing the kernel.
+### 2. Install the required libraries before installing the kernel
 ```bash
 sudo apt update
 sudo apt upgrade
@@ -83,13 +83,13 @@ sudo apt install libncurses5-dev flex bison libssl-dev wget
 ```
   
   
-### 3. Gets the current Linux kernel settings file.
+### 3. Gets the current Linux kernel settings file
 ```bash
 cp /boot/config-$(uname -r) .config
 ```
   
   
-### 4. Check the number of cpu cores on the Linux server.
+### 4. Check the number of cpu cores on the Linux server
 ```bash
 grep -c processor /proc/cpuinfo
 ```
