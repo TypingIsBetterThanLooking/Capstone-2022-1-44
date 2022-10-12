@@ -23,7 +23,7 @@
 
 |김동욱|채기중|김지원|
 |:-:|:-:|:-:|
-|<img src="https://user-images.githubusercontent.com/71700079/190619406-503a09ff-d4a9-4837-bae2-5c78c17ed60a.jpg" width="100" height="100">|<img src="https://user-images.githubusercontent.com/71700079/190619439-ebaed8d0-a1df-4a9c-88b5-89eeaeb6eba8.jpg" width="100" height="100">|<img src="https://user-images.githubusercontent.com/68818952/195264504-b5a6a5b9-a0bb-4687-a7c1-b861da99f6c1.png" width="100" height="100">|
+|<img src="https://user-images.githubusercontent.com/71700079/190619406-503a09ff-d4a9-4837-bae2-5c78c17ed60a.jpg" width="100" height="100">|<img src="https://user-images.githubusercontent.com/71700079/190619439-ebaed8d0-a1df-4a9c-88b5-89eeaeb6eba8.jpg" width="100" height="100">|<img src="https://user-images.githubusercontent.com/76808389/195280618-497459de-e67d-4f40-a735-e880e5e66105.jpg" width="100" height="100">|
 |201724419|201724596|201924445|
 |kosa0914@naver.com|daiywlf5251@gmail.com|kjw07227@pusan.ac.kr
 ---
