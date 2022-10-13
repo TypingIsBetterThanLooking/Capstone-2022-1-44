@@ -68,10 +68,14 @@
 ### Environment
 ![image](https://user-images.githubusercontent.com/68818952/195270261-bc75fb3f-7fc5-4d02-a879-84db7a41e884.png)
 
+### Requirements
+* Device mapper install: [dm-zoned](https://github.com/westerndigitalcorporation/dm-zoned-tools)
 
+
+---
 ### 1. Clone git repo to your linux server
 ```bash
-git clone https://github.com/TypingIsBetterThanLooking/TBTL-Server.git
+git clone https://github.com/TypingIsBetterThanLooking/Capstone-2022-1-44.git
 ```
   
   
