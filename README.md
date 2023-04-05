@@ -55,15 +55,8 @@
 3. 컨테이너가 chunk에 해당하는 **zone을 사용 중이면 사용중인 zone을 반환**, **사용하고 있지 않으면 unmapped zone을 할당**
 4. 컨테이너가 chunk에 해당하는 **zone을 더 이상 사용하지 않는 경우 매핑 테이블에서 cgroup id를 삭제한 후 zone 할당 해제**
 
-
 ---
-## 4. 소개 및 시연 영상
-
-[![부산대학교 정보컴퓨터공학부 소개](http://img.youtube.com/vi/zh_gQ_lmLqE/0.jpg)](https://youtu.be/zh_gQ_lmLqE)   
-정보컴퓨터공학과 유튜브 채널에 업로드되면 해당 영상의 link를 연결하겠습니다.
-
----
-## 5. 사용법
+## 4. 사용법
 
 ### Environment
 ![image](https://user-images.githubusercontent.com/68818952/195270261-bc75fb3f-7fc5-4d02-a879-84db7a41e884.png)
